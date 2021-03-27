@@ -131,12 +131,10 @@ color:#ff6f47;
         width:300px;
         
     }
-    form input, form button {
-        padding: 0.2rem;
-        font-size: 2rem;
-        border: none;
-        background: white;
+    .todo-input{
+        max-width: 250px;
     }
+    
     
 }
 
